@@ -2,4 +2,3 @@ text1-a
 insert a line -master
 insert a line -hotfix
 up a line -admin1
-up a line -admin1 up2
